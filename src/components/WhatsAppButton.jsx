@@ -9,7 +9,7 @@ export default function WhatsAppButton() {
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg transition"
       >
-        💬
+        💬 Personalize seu site agora
       </a>
     );
   }
