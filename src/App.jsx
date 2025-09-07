@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 /*import LinktreeDemo from "./pages/LinktreeDemo";
 import ApresentacaoDemo from "./pages/ApresentacaoDemo";*/
 import FunnelDemo from "./Pages/FunilDemo/App";
+import LinksTree from "./Pages/LinktreeDemo/App";
 import WhatsAppButton from "./components/WhatsAppButton";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/funnel/*" element={<FunnelDemo />} />
+        <Route path="/links" element={<LinksTree />} />
       </Routes>
       <WhatsAppButton />
     </div>

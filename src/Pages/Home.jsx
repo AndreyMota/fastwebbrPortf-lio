@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
   const demos = [
-    { title: "Modelo Linktree", path: "/linktree" },
+    { title: "Modelo Linktree", path: "/links" },
     { title: "Modelo Apresentação", path: "/apresentacao" },
     { title: "Funil com Quiz", path: "/funnel" },
   ];
