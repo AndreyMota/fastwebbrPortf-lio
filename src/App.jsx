@@ -1,5 +1,5 @@
 import { Routes, Route, useLocation } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 /*import LinktreeDemo from "./pages/LinktreeDemo";
 import ApresentacaoDemo from "./pages/ApresentacaoDemo";*/
 import FunnelDemo from "./Pages/FunilDemo/App";
